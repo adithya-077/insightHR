@@ -1,0 +1,1 @@
+InsightHR is a  tool designed for HR managers to manage recruitment and retention tasks. It leverages open-source LLMs and transformer models, including locally-run 1B LLM models and fine-tuned transformer models like Google FLAN-T5, alongside traditional machine learning and deep learning techniques.
